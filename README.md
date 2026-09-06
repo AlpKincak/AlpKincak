@@ -6,17 +6,6 @@ I build systems at the intersection of **AI, software products, quantitative com
 
 ## Selected Work
 
-### [Jarvis — Personal AI Systems Platform](https://github.com/AlpKincak/jarvis-showcase)
-A persistent, model-independent personal AI control plane designed to own memory, identity, context, tasks, permissions, audit history, and routing independently of any individual AI provider.
-
-Built around durable PostgreSQL state, provenance-grounded memory, entity and relationship extraction, semantic retrieval, persistent task execution, checkpointing, scheduling, and capability-aware model routing.
-
-`Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `SQLAlchemy` · `Docker`
-
-[Technical showcase →](https://github.com/AlpKincak/jarvis-showcase)
-
----
-
 ### [Aftember — Founder & Lead Engineer](https://github.com/AlpKincak/aftember-showcase)
 A private-first mobile social platform designed around capturing real-world moments with friends rather than traditional public-facing social media.
 
@@ -28,14 +17,14 @@ Building the product end-to-end across the React Native client, FastAPI backend,
 
 ---
 
-### [Algorithmic Trading & Market Research](https://github.com/AlpKincak/forex-trader-showcase)
-A deterministic multi-timeframe FX research and live-observation system modeling market structure, liquidity, points of interest, lower-timeframe confirmation, and rule-based observational trade plans.
+### [Jarvis — Personal AI Systems Platform](https://github.com/AlpKincak/jarvis-showcase)
+A persistent, model-independent personal AI control plane designed to own memory, identity, context, tasks, permissions, audit history, and routing independently of any individual AI provider.
 
-The system includes deterministic replay infrastructure, live OANDA practice-data observation, an installable PWA dashboard, durable Web Push notifications, and automated validation designed to detect temporal and look-ahead errors.
+Built around durable PostgreSQL state, provenance-grounded memory, entity and relationship extraction, semantic retrieval, persistent task execution, checkpointing, scheduling, and capability-aware model routing.
 
-`Python` · `OANDA` · `SQLite` · `PWA` · `Web Push`
+`Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `SQLAlchemy` · `Docker`
 
-[Technical showcase →](https://github.com/AlpKincak/forex-trader-showcase)
+[Technical showcase →](https://github.com/AlpKincak/jarvis-showcase)
 
 ---
 
@@ -48,10 +37,21 @@ Includes read-only TradeLocker synchronization, SQL-backed persistence, CSV/JSON
 
 [View source →](https://github.com/AlpKincak/trading_journal)
 
+---
+
+### [Algorithmic Trading & Market Research](https://github.com/AlpKincak/forex-trader-showcase)
+A deterministic multi-timeframe FX research and live-observation system modeling market structure, liquidity, points of interest, lower-timeframe confirmation, and rule-based observational trade plans.
+
+The system includes deterministic replay infrastructure, live OANDA practice-data observation, an installable PWA dashboard, durable Web Push notifications, and automated validation designed to detect temporal and look-ahead errors.
+
+`Python` · `OANDA` · `SQLite` · `PWA` · `Web Push`
+
+[Technical showcase →](https://github.com/AlpKincak/forex-trader-showcase)
+
 ## Research
 
-### Cornell University — Quantum Optics / AMO Physics
-Undergraduate researcher working with experimental laser and optical systems, including beam alignment and characterization, with ongoing work toward quantum-control and experimental automation systems.
+### Katz Lab — Cornell Physics | Undergraduate Researcher
+Working with experimental laser and optical systems, including beam alignment and characterization, with ongoing work toward quantum-control and experimental automation systems.
 
 ## Technologies
 
@@ -60,10 +60,6 @@ Undergraduate researcher working with experimental laser and optical systems, in
 **Product:** React Native · Expo · Streamlit · Plotly  
 **Infrastructure:** Docker · Railway · Cloudflare · Git  
 **Scientific:** ARTIQ · numerical / computational modeling
-
-## About Me
-
-I’m currently studying Physics, Computer Science, and Mathematics at Cornell. I’m interested in building technically ambitious systems across AI infrastructure, software engineering, quantitative systems, and quantum computing.
 
 ---
 
