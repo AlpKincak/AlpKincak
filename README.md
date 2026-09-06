@@ -6,39 +6,47 @@ I build systems at the intersection of **AI, software products, quantitative com
 
 ## Selected Work
 
-### Jarvis — Personal AI Systems Platform
+### [Jarvis — Personal AI Systems Platform](https://github.com/AlpKincak/jarvis-showcase)
 A persistent, model-independent personal AI control plane designed to own memory, identity, context, tasks, permissions, audit history, and routing independently of any individual AI provider.
 
 Built around durable PostgreSQL state, provenance-grounded memory, entity and relationship extraction, semantic retrieval, persistent task execution, checkpointing, scheduling, and capability-aware model routing.
 
 `Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `SQLAlchemy` · `Docker`
 
+[Technical showcase →](https://github.com/AlpKincak/jarvis-showcase)
+
 ---
 
-### Aftember — Founder & Lead Engineer
-A mobile social platform designed around capturing real-world moments with friends rather than traditional public-facing social media.
+### [Aftember — Founder & Lead Engineer](https://github.com/AlpKincak/aftember-showcase)
+A private-first mobile social platform designed around capturing real-world moments with friends rather than traditional public-facing social media.
 
-Building the product end-to-end across the React Native client, FastAPI backend, PostgreSQL persistence, media infrastructure, notifications, live-location systems, and a collaborative Rewind experience for shared moments.
+Building the product end-to-end across the React Native client, FastAPI backend, PostgreSQL persistence, media infrastructure, notifications, location-aware systems, and a collaborative Rewind experience for shared moments.
 
 `React Native` · `TypeScript` · `Python` · `FastAPI` · `PostgreSQL` · `Cloudflare R2`
 
+[Product & engineering showcase →](https://github.com/AlpKincak/aftember-showcase)
+
 ---
 
-### Algorithmic Trading & Market Research
+### [Algorithmic Trading & Market Research](https://github.com/AlpKincak/forex-trader-showcase)
 A deterministic multi-timeframe FX research and live-observation system modeling market structure, liquidity, points of interest, lower-timeframe confirmation, and rule-based observational trade plans.
 
-The system includes deterministic replay infrastructure, live OANDA practice-data observation, an installable PWA dashboard, durable Web Push notifications, and extensive automated validation designed to detect temporal and look-ahead errors.
+The system includes deterministic replay infrastructure, live OANDA practice-data observation, an installable PWA dashboard, durable Web Push notifications, and automated validation designed to detect temporal and look-ahead errors.
 
 `Python` · `OANDA` · `SQLite` · `PWA` · `Web Push`
 
+[Technical showcase →](https://github.com/AlpKincak/forex-trader-showcase)
+
 ---
 
-### Trading Journal
+### [Trading Journal](https://github.com/AlpKincak/trading_journal) — Open Source
 A local-first trading analytics platform for importing, synchronizing, reviewing, and analyzing trading activity.
 
 Includes read-only TradeLocker synchronization, SQL-backed persistence, CSV/JSON import and export, backup/restore tooling, data-quality validation, interactive Plotly analytics, and performance/risk metrics including expectancy, realized R, profit factor, and drawdown.
 
 `Python` · `SQLAlchemy` · `SQLite` · `Streamlit` · `Plotly`
+
+[View source →](https://github.com/AlpKincak/trading_journal)
 
 ## Research
 
@@ -59,4 +67,4 @@ I’m currently studying Physics, Computer Science, and Mathematics at Cornell. 
 
 ---
 
-Most of my larger projects are currently developed in private repositories. Public technical write-ups and selected project showcases are being added over time.
+The larger production codebases for Jarvis, Aftember, and the FX research system are private. Their public showcase repositories document architecture and engineering decisions without exposing production source or private configuration. `trading_journal` is available as a complete public code sample.
