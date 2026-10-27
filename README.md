@@ -59,7 +59,7 @@ Working with experimental laser and optical systems, including beam alignment an
 **Backend & Data:** FastAPI · PostgreSQL · SQLAlchemy · SQLite · pgvector  
 **Product:** React Native · Expo · Streamlit · Plotly  
 **Infrastructure:** Docker · Railway · Cloudflare · Git  
-**Scientific:** ARTIQ · numerical / computational modeling
+**Scientific:** Numerical / computational modeling
 
 ---
 
