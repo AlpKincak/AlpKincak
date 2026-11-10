@@ -90,16 +90,6 @@ I build mobile applications, AI infrastructure, and data-intensive software. I'm
 <!-- Individual cards can be removed here without changing the other cards. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/overview.dark.svg">
-  <img src="assets/profile-cards/overview.light.svg" alt="Overview of GitHub contribution and account statistics" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/composition.dark.svg">
-  <img src="assets/profile-cards/composition.light.svg" alt="GitHub contribution composition by activity type and year" width="100%">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/momentum.dark.svg">
   <img src="assets/profile-cards/momentum.light.svg" alt="Rolling twelve-month GitHub contribution momentum" width="100%">
 </picture>
