@@ -96,19 +96,3 @@ I'm a Cornell student building full-stack applications, persistent AI infrastruc
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-## Development activity
-
-<!-- Generated daily by .github/workflows/profile-cards.yml. -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/momentum.dark.svg">
-  <img src="assets/profile-cards/momentum.light.svg" alt="Rolling twelve-month GitHub contribution momentum" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/rhythm.dark.svg">
-  <img src="assets/profile-cards/rhythm.light.svg" alt="GitHub contributions by weekday and month" width="100%">
-</picture>
-
-<sub>Includes anonymized private contributions when GitHub profile settings allow them.</sub>
