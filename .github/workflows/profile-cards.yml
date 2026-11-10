@@ -24,12 +24,12 @@ jobs:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Render overview, composition, momentum, and rhythm
+      - name: Render momentum and rhythm
         uses: seijikohara/profile-cards-action@38ef607e10ff675448299c42932d2fda7ae1129c # v1.17.5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: AlpKincak
-          cards: overview,composition,momentum,rhythm
+          cards: momentum,rhythm
           layout: split
           output-dir: assets/profile-cards
           themes: light,dark
