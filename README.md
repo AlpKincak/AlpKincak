@@ -84,15 +84,29 @@ I build mobile applications, AI infrastructure, and data-intensive software. I'm
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-## GitHub activity
+## GitHub contributions
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api?username=alpkincak&theme=dark&hide_border=true&show_icons=true" width="100%" alt="GitHub profile statistics">
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alpkincak&theme=dark&hide_border=true&layout=compact" width="100%" alt="Programming languages in public GitHub repositories">
-    </td>
-  </tr>
-</table>
+<!-- Generated daily by .github/workflows/profile-cards.yml. -->
+<!-- Individual cards can be removed here without changing the other cards. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/overview.dark.svg">
+  <img src="assets/profile-cards/overview.light.svg" alt="Overview of GitHub contribution and account statistics" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/composition.dark.svg">
+  <img src="assets/profile-cards/composition.light.svg" alt="GitHub contribution composition by activity type and year" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/momentum.dark.svg">
+  <img src="assets/profile-cards/momentum.light.svg" alt="Rolling twelve-month GitHub contribution momentum" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/rhythm.dark.svg">
+  <img src="assets/profile-cards/rhythm.light.svg" alt="GitHub contributions by weekday and month" width="100%">
+</picture>
+
+<sub>Statistics are generated from GitHub contribution data. Private activity is only reflected when GitHub's private contributions setting allows it; private repositories and source code are not exposed.</sub>
