@@ -15,8 +15,6 @@ I'm a Cornell student building full-stack applications, persistent AI infrastruc
 
 ## Selected projects
 
-<!-- The four images below are placeholders from this repository's existing artwork. -->
-<!-- Replace each assets/frames/ image path when final screenshots are available. -->
 
 <table>
   <tr>
@@ -31,7 +29,7 @@ I'm a Cornell student building full-stack applications, persistent AI infrastruc
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlpKincak/continuum-showcase">
-        <img src="continuum-banner-16x9.webp" width="100%" alt="Continuum AI infrastructure and task execution diagram">
+        <img src="assets/frames/continuum-banner-16x9.webp" width="100%" alt="Continuum AI infrastructure and task execution diagram">
       </a>
       <h3><a href="https://github.com/AlpKincak/continuum-showcase">Continuum</a></h3>
       <sub>AI infrastructure · Distributed state</sub>
@@ -51,7 +49,7 @@ I'm a Cornell student building full-stack applications, persistent AI infrastruc
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlpKincak/forex-trader-showcase">
-        <img src="fx-research-banner-16x9.webp" width="100%" alt="FX Research System multi-timeframe D1, H4, M15 and M5/M1 market analysis banner">
+        <img src="assets/frames/fx-research-banner-16x9.webp" width="100%" alt="FX Research System multi-timeframe D1, H4, M15 and M5/M1 market analysis banner">
       </a>
       <h3><a href="https://github.com/AlpKincak/forex-trader-showcase">FX Research System</a></h3>
       <sub>Time-series analysis · Deterministic replay</sub>
