@@ -1,24 +1,98 @@
-# 💫 About Me:
-I build mobile applications, AI infrastructure, and data-intensive software. Much of my work is about making stateful systems reliable: handling asynchronous workflows, recovering from failures, and keeping complex behavior understandable.
+# Alp Murat Kıncak
 
+**Software engineering · AI infrastructure · Mobile systems**  
+Cornell University · Physics, Computer Science & Mathematics
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpkincak) 
+I build mobile applications, AI infrastructure, and data-intensive software. I'm especially interested in systems that have to behave reliably across asynchronous work, persistent state, and real-world failures.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=alpkincak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=alpkincak&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=alpkincak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alpkincak)
+[![Repositories](https://img.shields.io/badge/GitHub-All%20repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AlpKincak?tab=repositories)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Selected projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alpkincak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- The four images below are placeholders from this repository's existing artwork. -->
+<!-- Replace each assets/frames/ image path when a final screenshot is available. -->
 
----
-[![](https://komarev.com/ghpvc/?username=alpkincak&icon=0&color=0)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlpKincak/aftember-showcase">
+        <img src="assets/frames/01-aftember.webp" width="100%" alt="Aftember mobile product design preview">
+      </a>
+      <h3><a href="https://github.com/AlpKincak/aftember-showcase">Aftember</a></h3>
+      <sub>Mobile engineering · Backend systems</sub>
+      <p>An event-first social camera built around shared memories. Native iOS capture, reliable media uploads, private shared albums, and the stateful workflows behind Rewinds.</p>
+      <sub>React Native · Swift · FastAPI · PostgreSQL</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlpKincak/continuum-showcase">
+        <img src="assets/frames/02-continuum-static.svg" width="100%" alt="Continuum AI infrastructure and task execution diagram">
+      </a>
+      <h3><a href="https://github.com/AlpKincak/continuum-showcase">Continuum</a></h3>
+      <sub>AI infrastructure · Distributed state</sub>
+      <p>A model-independent personal AI control plane. Durable tasks, persistent memory, checkpoints, and recovery when execution workers fail.</p>
+      <sub>Python · FastAPI · PostgreSQL · Docker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlpKincak/trading_journal">
+        <img src="assets/frames/04-journal.webp" width="100%" alt="Trading Journal application dashboard screenshot">
+      </a>
+      <h3><a href="https://github.com/AlpKincak/trading_journal">Trading Journal</a></h3>
+      <sub>Open source · Data applications</sub>
+      <p>A local-first trading analytics app with CSV validation, read-only broker sync, risk metrics, and a Streamlit dashboard. Full source code is public.</p>
+      <sub>Python · Streamlit · SQLite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/AlpKincak/forex-trader-showcase">
+        <img src="assets/frames/03-trading.svg" width="100%" alt="Multi-timeframe FX research system diagram">
+      </a>
+      <h3><a href="https://github.com/AlpKincak/forex-trader-showcase">FX Research System</a></h3>
+      <sub>Time-series analysis · Deterministic replay</sub>
+      <p>A market structure research and observation system, with shared live/replay logic and explicit checks against look-ahead errors. No automated order execution.</p>
+      <sub>Python · SQLite · Web Push</sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Aftember, Continuum, and the FX research system have private implementation repositories; their linked showcases document the work. Trading Journal is open source.</sub>
+
+## Tools & technologies
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks & infrastructure**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Data & machine learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+## GitHub activity
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api?username=alpkincak&theme=dark&hide_border=true&show_icons=true" width="100%" alt="GitHub profile statistics">
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alpkincak&theme=dark&hide_border=true&layout=compact" width="100%" alt="Programming languages in public GitHub repositories">
+    </td>
+  </tr>
+</table>
