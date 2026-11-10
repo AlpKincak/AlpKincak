@@ -1,9 +1,14 @@
-# Alp Murat Kıncak
+# ✦ Alp Murat Kıncak
 
 **Software engineering · AI infrastructure · Mobile systems**  
 Cornell University · Physics, Computer Science & Mathematics
 
-I build mobile applications, AI infrastructure, and data-intensive software. I'm especially interested in systems that have to behave reliably across asynchronous work, persistent state, and real-world failures.
+## Building software across AI, mobile experiences, and reliable systems
+
+I'm a Cornell student building full-stack applications, persistent AI infrastructure, and data-intensive software. I care most about systems that have to behave well under real-world constraints: asynchronous workflows, native mobile performance, stateful backends, and failure recovery.
+
+**Currently building:** [Aftember](https://github.com/AlpKincak/aftember-showcase) · [Continuum](https://github.com/AlpKincak/continuum-showcase)  
+**Areas of interest:** AI systems · mobile engineering · backend reliability · quantitative software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alpkincak)
 [![Repositories](https://img.shields.io/badge/GitHub-All%20repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/AlpKincak?tab=repositories)
@@ -11,7 +16,7 @@ I build mobile applications, AI infrastructure, and data-intensive software. I'm
 ## Selected projects
 
 <!-- The four images below are placeholders from this repository's existing artwork. -->
-<!-- Replace each assets/frames/ image path when a final screenshot is available. -->
+<!-- Replace each assets/frames/ image path when final screenshots are available. -->
 
 <table>
   <tr>
@@ -64,18 +69,23 @@ I build mobile applications, AI infrastructure, and data-intensive software. I'm
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
 
 **Frameworks & infrastructure**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=expo&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 **Data & machine learning**
@@ -83,11 +93,13 @@ I build mobile applications, AI infrastructure, and data-intensive software. I'm
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-## GitHub contributions
+## Development activity
 
 <!-- Generated daily by .github/workflows/profile-cards.yml. -->
-<!-- Individual cards can be removed here without changing the other cards. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-cards/momentum.dark.svg">
@@ -99,4 +111,4 @@ I build mobile applications, AI infrastructure, and data-intensive software. I'm
   <img src="assets/profile-cards/rhythm.light.svg" alt="GitHub contributions by weekday and month" width="100%">
 </picture>
 
-<sub>Statistics are generated from GitHub contribution data. Private activity is only reflected when GitHub's private contributions setting allows it; private repositories and source code are not exposed.</sub>
+<sub>Includes anonymized private contributions when GitHub profile settings allow them.</sub>
