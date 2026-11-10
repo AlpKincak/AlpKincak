@@ -51,7 +51,7 @@ I'm a Cornell student building full-stack applications, persistent AI infrastruc
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlpKincak/forex-trader-showcase">
-        <img src="assets/frames/03-trading.svg" width="100%" alt="Multi-timeframe FX research system diagram">
+        <img src="fx-research-banner-16x9.webp" width="100%" alt="FX Research System multi-timeframe D1, H4, M15 and M5/M1 market analysis banner">
       </a>
       <h3><a href="https://github.com/AlpKincak/forex-trader-showcase">FX Research System</a></h3>
       <sub>Time-series analysis · Deterministic replay</sub>
