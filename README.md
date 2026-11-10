@@ -31,7 +31,7 @@ I'm a Cornell student building full-stack applications, persistent AI infrastruc
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AlpKincak/continuum-showcase">
-        <img src="assets/frames/02-continuum-static.svg" width="100%" alt="Continuum AI infrastructure and task execution diagram">
+        <img src="continuum-banner-16x9.webp" width="100%" alt="Continuum AI infrastructure and task execution diagram">
       </a>
       <h3><a href="https://github.com/AlpKincak/continuum-showcase">Continuum</a></h3>
       <sub>AI infrastructure · Distributed state</sub>
