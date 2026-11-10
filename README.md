@@ -42,7 +42,7 @@ I'm a Cornell student building full-stack applications, persistent AI infrastruc
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AlpKincak/trading_journal">
-        <img src="assets/frames/04-journal.webp" width="100%" alt="Trading Journal application dashboard screenshot">
+        <img src="assets/frames/04-journal-v2.webp" width="100%" alt="Trading Journal application dashboard screenshot">
       </a>
       <h3><a href="https://github.com/AlpKincak/trading_journal">Trading Journal</a></h3>
       <sub>Open source · Data applications</sub>
